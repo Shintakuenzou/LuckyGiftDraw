@@ -111,3 +111,40 @@ h1 {
     text-align: center;
     display: none;
 }
+
+@media (max-width: 768px) {
+    .container header {
+        width: 100%;
+        margin: 50px 0 50px;
+    }
+    h1 {
+        font-size: 1rem;
+        width: 100%;
+        text-align: center;
+    }
+    .container input {
+        width: 97%;
+    }
+    .container button {
+        width: 50%;
+        padding: 16px;
+        margin: 10px 5px 10px 5px;
+    }
+    .list-users h2 {
+        font-size: 1rem;
+    }
+    .card {
+        height: 60px;
+        width: 97%;
+        padding: 24px 12px;
+        font-size: 16px;
+    }
+    #container-raffle-user {
+        margin-bottom: 1rem;
+        padding: 10px;
+        width: 90%;
+    }
+    .btn_remove--text{
+        display: none;
+    }
+}

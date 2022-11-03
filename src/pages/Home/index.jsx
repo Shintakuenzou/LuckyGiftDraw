@@ -121,7 +121,7 @@ export function Home() {
                   <a onClick={ () => removeUser(usuario.id) }
                     className='link-card' 
                     href="#">
-                    <TrashSimple size={24} /> Remove
+                    <TrashSimple size={24} /> <span className='btn_remove--text'>Remove</span>
                   </a>
               </div>
           </div>

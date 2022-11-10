@@ -2,7 +2,7 @@
 
 <img src="https://i.postimg.cc/QC0X2rX4/tela.png" width="900px" height="275" alt="banner software">
 
-> SINGLE-PAGE APPLICATION IN REACT. Sorteio de brindes em confraternização de empresas, festas de amigos e familiares, divirtam-se! `Quero testar:` https://shintaku-michel.github.io/raffle-gifts-vite/
+> SINGLE-PAGE APPLICATION IN REACT. Sorteio de brindes em confraternização de empresas, festas de amigos e familiares, divirtam-se! `Quero testar:` <a href="https://shintaku-michel.github.io/raffle-gifts-vite/" target="_blank">https://shintaku-michel.github.io/raffle-gifts-vite/</a>
 
 ### Ajustes e melhorias
 

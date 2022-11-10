@@ -1,6 +1,6 @@
 # raffle-gifts-vite
 
-<img src="https://i.postimg.cc/CM7307gq/ra-FFLE-GIFTS-1.png" width="600px" height="200" alt="banner software">
+<img src="https://i.postimg.cc/QC0X2rX4/tela.png" width="1140px" height="350" alt="banner software">
 
 > SINGLE-PAGE APPLICATION IN REACT. Sorteio de brindes em confraternização de empresas, festas de amigos e familiares, divirtam-se!
 

@@ -1,6 +1,6 @@
 # LuckyGiftDraw
 
-> SINGLE-PAGE APPLICATION IN REACT. Sorteio de brindes em confraternização de empresas, festas de amigos e familiares, divirtam-se! `Quero testar:` <a href="https://lucky-gift-draw.vercel.app/" target="_blank">https://lucky-gift-draw.vercel.app//</a>
+> SINGLE-PAGE APPLICATION IN REACT. Sorteio de brindes em confraternização de empresas, festas de amigos e familiares, divirtam-se! `Quero testar:` <a href="https://lucky-gift-draw.vercel.app/" target="_blank">https://lucky-gift-draw.vercel.app/</a>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
